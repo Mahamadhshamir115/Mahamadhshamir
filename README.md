@@ -16,6 +16,8 @@ As a data scientist and data analyst, I have a strong foundation in data managem
 
 
 💻 Skills:
+
+
 Power BI
 Data Science
 machine Learning(Supervised, Unsupervised)
@@ -27,4 +29,6 @@ MS Word
 
 
 🌐 Socials:
-linkedin mahamdhshamir
+
+
+linkedin- mahamdhshamir
