@@ -19,12 +19,19 @@ As a data scientist and data analyst, I have a strong foundation in data managem
 
 
 Power BI
+
 Data Science
+
 machine Learning(Supervised, Unsupervised)
+
 Python(Pandas,Numpy,Matplotlib,Seaborn)
+
 Data analysis
+
 Business analysis
+
 MS Excel
+
 MS Word
 
 
