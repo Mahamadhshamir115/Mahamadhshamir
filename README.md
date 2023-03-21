@@ -9,8 +9,14 @@ As a data scientist and data analyst, I have a strong foundation in data managem
 
 
 👀 I’m interested in Data Science and Data Analytics & Business Intelligence
+
+
 💞️ I’m looking to collaborate on data science and data analysis projects
+
+
 📝 I regularly write posts about DS & DA on LinkedIn
+
+
 📫 How to reach me shamirmahamadh@gmail.com
 
 
