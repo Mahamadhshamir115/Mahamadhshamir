@@ -19,6 +19,8 @@ As a data scientist and data analyst, I have a strong foundation in data managem
 
 📫 How to reach me shamirmahamadh@gmail.com
 
+Whats app = 9108701975
+
 
 
 💻 Skills:
